@@ -15,7 +15,7 @@ humanize
 aiofiles
 dnspython
 pynewtonmath
-openai
+openai==0.28
 jinja2
 python-dotenv<=0.20.0
 apscheduler
